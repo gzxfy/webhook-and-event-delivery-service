@@ -1,0 +1,1 @@
+This project will connect my Ai Study Hub project and my Analytics Dashboard project. This will be the middle/delivery service of sending quizzes and scores into this application for it to be sent to the Analytics Dashboard
